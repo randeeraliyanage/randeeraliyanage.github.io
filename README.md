@@ -1,4 +1,4 @@
-file:///home/randeera/Downloads/Banner.png
+![Banner](https://github.com/randeeraliyanage/randeeraliyanage.github.io/assets/157210441/7480f587-ce2c-4733-9ae9-7958bc3bec57)
 
 ![Lecturer | Academic | Researcher in Mechatronics Engineering ]
 
