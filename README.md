@@ -7,7 +7,7 @@ I am an academic, lecturer, and researcher in the field of mechatronics engineer
 
 Currently working as a Lecturer in Mechatronics Engineering at CINEC Campus Sri Lanka. 
 
-### Conact 
+### Contact 
 - Work Email - randeera.liyanage@cinec.edu
 - Personal Email - randeeraliyanage@gmail.com
 
