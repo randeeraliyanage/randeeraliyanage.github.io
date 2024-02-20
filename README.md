@@ -37,5 +37,5 @@ Currently working as a Lecturer in Mechatronics Engineering at CINEC Campus Sri 
 - Future research will mainly focus on the implementation of Simultaneous Localization and Mapping through ROS. This will open up the AGV platform to multiple experiments and optimizations for a variety of dynamic environments. It will also help to observe the performance and limitations of utilizing an AGV for a given task.
 - Contributor - Lenisha Dewmini (CINEC Final Year Student)
 
-I am constantly looking for enthusiastic final year engineering students to be a part of my research projects. If you are interested in any of the above projects, email me your CV along with 1 short paragraph in the email body describing your interest in the respective project to "randeera.liyanage@cinec.edu". Email subject - "Prospective UG for "Project Name." 
+I am constantly looking for enthusiastic final year engineering students to be a part of my research projects. If you are interested in any of the above projects, email me your CV along with 1 short paragraph in the email body describing your interest in the respective project to randeera.liyanage@cinec.edu. Email subject - "Prospective UG for "Project Name." 
 
