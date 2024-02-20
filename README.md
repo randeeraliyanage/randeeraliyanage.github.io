@@ -1,4 +1,5 @@
-/assets/img/Banner.png
+file:///home/randeera/Downloads/Banner.png
+
 ![Lecturer | Academic | Researcher in Mechatronics Engineering ]
 
 # Hi there 👋, I am Randeera Liyanage
