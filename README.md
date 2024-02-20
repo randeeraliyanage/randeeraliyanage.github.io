@@ -1,4 +1,5 @@
-![Lecturer | Academic | Researcher in Mechatronics Engineering ](https://github.com/randeeraliyanage/randeeraliyanage/blob/main/Banner.png)
+/assets/img/Banner.png
+![Lecturer | Academic | Researcher in Mechatronics Engineering ]
 
 # Hi there 👋, I am Randeera Liyanage
 ## Lecturer | Academic | Researcher in Mechatronics Engineering 
