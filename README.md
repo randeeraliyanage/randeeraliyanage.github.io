@@ -1,41 +1,126 @@
-![Banner](https://github.com/randeeraliyanage/randeeraliyanage.github.io/assets/157210441/7480f587-ce2c-4733-9ae9-7958bc3bec57)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darshana L Weerawarne</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #f4f4f4;
+            padding: 1rem 0;
+            border-bottom: 2px solid #ddd;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+        }
+        nav a {
+            text-decoration: none;
+            color: #007acc;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .about {
+            display: flex;
+            align-items: center;
+        }
+        .about img {
+            border-radius: 50%;
+            margin-left: 1rem;
+            width: 120px;
+            height: 120px;
+        }
+        h2 {
+            color: #007acc;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 0.5rem 0;
+        }
+        footer {
+            text-align: center;
+            margin-top: 2rem;
+            padding: 1rem 0;
+            background: #f4f4f4;
+            border-top: 2px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#research">Research</a>
+            <a href="#publications">Publications</a>
+            <a href="#resume">Resume</a>
+            <a href="#resources">Resources</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
 
-# Hi there 👋, I am Randeera Liyanage
-## Lecturer | Academic | Researcher in Mechatronics Engineering 
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <div class="about">
+                <p>
+                    I’m Darshana L Weerawarne, a Senior Lecturer at the Department of Physics, The University of Colombo, Sri Lanka.<br>
+                    Other affiliations: <a href="https://www.example.com" target="_blank">Center for Advanced Microelectronics Manufacturing, Binghamton, USA</a>
+                </p>
+                <img src="profile.jpg" alt="Darshana L Weerawarne">
+            </div>
+        </section>
 
-I am an academic, lecturer, and researcher in the field of mechatronics engineering. With a MEng (Hons) in Mechatronics Engineering from University Wolverhampton UK (First Class). Currently working as a Lecturer in Mechatronics Engineering at CINEC Campus Sri Lanka. I have a strong interest in embedded systems, applied electronics, control systems and robotics. Aside from lecturing, my work includes research, academic documentation and industry relations. 
+        <section id="research">
+            <h2>Research Interest</h2>
+            <ul>
+                <li>Flexible Electronics; design, fabrication, and reliability</li>
+                <li>Applied Optics; optical systems for research in flexible electronics</li>
+                <li>Numerical computing; laser-assisted heating</li>
+            </ul>
+        </section>
 
-Currently working as a Lecturer in Mechatronics Engineering at CINEC Campus Sri Lanka. 
+        <section id="publications">
+            <h2>Publications</h2>
+            <p>Coming soon...</p>
+        </section>
 
-### Contact 
-- Work Email - randeera.liyanage@cinec.edu
-- Personal Email - randeeraliyanage@gmail.com
+        <section id="resume">
+            <h2>Resume</h2>
+            <p>Download my <a href="resume.pdf" target="_blank">Resume (PDF)</a>.</p>
+        </section>
 
-### Research Interests
-- 📱Embedded Systems
-- 🪫Applied Electronics
-- 🛩️Control Systems
-- 🤖Robotics
-- 🏭Industrial Automation
+        <section id="resources">
+            <h2>Resources</h2>
+            <p>Curated links and tools will be added here.</p>
+        </section>
 
-### Research Projects
-#### Two-Wheeled Self-Balancing Robot
-- This research focuses on non-linear control, real time parameter monitoring and balanced motion in an incline plane using the two wheeled self-balancing robot, developed as a simulation and prototype platform to conduct controls engineering experiments for undergraduates.
-- Current work in this research includes optimization of the platform, balancing performance on incline planes and maneuverability using PID control.
-- Future research will focus on the implementation and performance evaluation of optimal and robust control strategies. Implementation of Kalman filtering to the platform and the evaluation of positive/ negative effects on the robot's performance is another aspect of future research.
-- Contributor - Kalani Anjana (CINEC Final Year Student) 
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:darshana@example.com">darshana@example.com</a></p>
+        </section>
+    </div>
 
-#### Micro Autonomous Underwater Vehicle (AUV)
-- This research originated from the common difficulties encountered in developing a low cost underwater robot suitable for underwater inspections. The Autonomous Underwater Vehicle (AUV) in this research is a micro sized with a payload capacity of less than 1kg. The chassis is a completely new design which was optimized using fluid dynamic simulations. The micro size allows the robot to be used in rapid maneuvering tasks under tight spaces, which is suitable for underwater explorations such as coral reefs and shipwrecks.
-- Current research focuses on the development of the custom AUV chassis and the integration of all the electronics in a single PCB. The testing will be carried out on basic maneuvering tasks underwater using a ground controller.
-- Future research will focus on the implementation of a suitable control scheme such as PID to achieve a better system response and understanding the effects of nonlinear dynamics and the methods to overcome them.
-- Contributor - Graham Silva (CINEC Final Year Student)
-
-#### Autonomous Ground Vehicle (AGV) Platform 
-- The world of manufacturing will be fully autonomous before you know it. The center of it all lies on a versite robot known as the Autonomous Ground Vehicle (AGV). Engineers today must have the required hands on experience for the future. Though educational AGV platforms are available, they are often expensive, limited to a specific application and generally, closed systems. This research focuses on the development of a re-configurable low cost AGV platform to be used in undergraduate education.
-- The current research focuses on the development of a re-configurable custom platform, integrating the essential electronics in a PCB and having modular slots for sensors/ actuators which will suit multiple applications. This will also enable the undergraduates to experiment with multiple sensors/ actuators and program the robot for multiple scenarios.
-- Future research will mainly focus on the implementation of Simultaneous Localization and Mapping through ROS. This will open up the AGV platform to multiple experiments and optimizations for a variety of dynamic environments. It will also help to observe the performance and limitations of utilizing an AGV for a given task.
-- Contributor - Lenisha Dewmini (CINEC Final Year Student)
-
-I am constantly looking for enthusiastic final year engineering students to be a part of my research projects. If you are interested in any of the above projects, email me your CV along with 1 short paragraph in the email body describing your interest in the respective project to randeera.liyanage@cinec.edu. Email subject - "Prospective UG for "Project Name." 
-
+    <footer>
+        <p>&copy; 2025 Darshana L Weerawarne. All rights reserved.</p>
+    </footer>
+</body>
+</html>
