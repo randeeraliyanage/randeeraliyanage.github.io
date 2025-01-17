@@ -4,74 +4,71 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Randeera Liyanage</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
             line-height: 1.6;
             color: #333;
         }
-
         header {
-            background: #0078d7;
-            color: #fff;
-            padding: 10px 20px;
+            background-color: #f4f4f4;
             text-align: center;
+            padding: 20px 0;
         }
-
         header h1 {
             margin: 0;
             font-size: 2.5rem;
+            color: #0056b3;
         }
-
         nav {
-            background: #f4f4f4;
-            padding: 10px 20px;
+            background: #0056b3;
+            color: #fff;
             text-align: center;
+            padding: 10px 0;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
         }
-
         nav a {
-            margin: 0 15px;
+            color: white;
             text-decoration: none;
-            color: #0078d7;
-            font-weight: bold;
+            margin: 0 15px;
+            font-size: 1.1rem;
         }
-
         nav a:hover {
             text-decoration: underline;
         }
-
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
         section {
-            max-width: 900px;
-            margin: 20px auto;
-            padding: 20px;
-            background: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            margin-bottom: 40px;
         }
-
-        section h2 {
-            color: #0078d7;
-            border-bottom: 2px solid #ddd;
+        h2 {
+            border-bottom: 2px solid #0056b3;
             padding-bottom: 5px;
+            color: #0056b3;
         }
-
         footer {
-            background: #f4f4f4;
-            color: #333;
             text-align: center;
-            padding: 10px;
+            padding: 10px 0;
+            background: #f4f4f4;
             margin-top: 20px;
         }
-
-        footer a {
-            color: #0078d7;
+        footer p {
+            margin: 0;
+        }
+        a {
+            color: #0056b3;
             text-decoration: none;
         }
-
-        footer a:hover {
+        a:hover {
             text-decoration: underline;
         }
     </style>
@@ -88,37 +85,38 @@
         <a href="#resources">Resources</a>
         <a href="#contact">Contact</a>
     </nav>
-    <section id="about">
-        <h2>About Me</h2>
-        <p>I'm Randeera Liyanage, a researcher and lecturer with expertise in embedded systems, edge computing, and mechatronics engineering. My work focuses on developing innovative solutions for industrial and academic applications.</p>
-    </section>
-    <section id="research">
-        <h2>Research Interests</h2>
-        <ul>
-            <li>Embedded Systems Design and Development</li>
-            <li>Edge Computing and Internet of Things (IoT)</li>
-            <li>Machine Learning Applications in Engineering</li>
-        </ul>
-    </section>
-    <section id="publications">
-        <h2>Publications</h2>
-        <p>A list of my publications will be added soon.</p>
-    </section>
-    <section id="resume">
-        <h2>Resume</h2>
-        <p>Download my resume <a href="#">here</a>.</p>
-    </section>
-    <section id="resources">
-        <h2>Resources</h2>
-        <p>Curated links and resources for students and researchers will be available soon.</p>
-    </section>
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>Feel free to reach out to me via email at <a href="mailto:your_email@example.com">your_email@example.com</a>.</p>
-    </section>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I’m Randeera Liyanage, a [Your Position or Title] at [Your Institution]. I am passionate about [Your Key Interests or Work Focus].</p>
+        </section>
+        <section id="research">
+            <h2>Research Interest</h2>
+            <ul>
+                <li>[Research Area 1]</li>
+                <li>[Research Area 2]</li>
+                <li>[Research Area 3]</li>
+            </ul>
+        </section>
+        <section id="publications">
+            <h2>Publications</h2>
+            <p>Coming Soon</p>
+        </section>
+        <section id="resume">
+            <h2>Resume</h2>
+            <p>Coming Soon</p>
+        </section>
+        <section id="resources">
+            <h2>Resources</h2>
+            <p>Coming Soon</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>You can reach me at: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        </section>
+    </div>
     <footer>
         <p>&copy; 2025 Randeera Liyanage. All rights reserved.</p>
-        <p>Hosted on <a href="https://pages.github.com/">GitHub Pages</a> &ndash; Theme by Custom</p>
     </footer>
 </body>
 </html>
