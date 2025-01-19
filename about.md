@@ -5,7 +5,7 @@ title: About
 
 # About Me
 
-![My Photo](assets/img/CVPhoto2024Jan.png)
+![My Photo](assets/img/CVPhoto2024Jan.png){: style="width: 200px; border-radius: 50%;" }
 
 I’m Randeera Liyanage, a passionate researcher and engineer focusing in the areas of controls systems, robotics and edge computing.
 
