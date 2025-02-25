@@ -12,8 +12,8 @@ Feel free to reach out to me through any of the following platforms:
         <img src="assets/img/email.png" alt="Email" style="width: 30px; vertical-align: middle; margin-right: 10px;">
         Email - randeera.liyanage@cinec.edu
     </a>
-    <a href="" style="text-decoration: none; color: #333;">
-        <img src="assets/img/phone" alt="Phone" style="width: 30px; vertical-align: middle; margin-right: 10px;">
+    <a href="tel:+94777142029" style="text-decoration: none; color: #333;">
+        <img src="assets/img/phone.png" alt="Phone" style="width: 30px; vertical-align: middle; margin-right: 10px;">
         Phone - +94 777142029
     </a>
     <a href="http://www.linkedin.com/in/randeeraliyanage" target="_blank" style="text-decoration: none; color: #0077b5;">
