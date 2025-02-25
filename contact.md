@@ -20,9 +20,9 @@ Feel free to reach out to me through any of the following platforms:
         <img src="assets/img/linkedin.png" alt="LinkedIn" style="width: 30px; vertical-align: middle; margin-right: 10px;">
         radeeraliyanage
     </a>
-    <a href="https://randeeraliyanage.github.io" target="_blank" style="text-decoration: none; color: #032c5c;">
+    <a href="https://github.com/randeeraliyanage" target="_blank" style="text-decoration: none; color: #032c5c;">
         <img src="assets/img/github.png" alt="GitHub" style="width: 30px; vertical-align: middle; margin-right: 10px;">
-        randeeraliyanage.github.io
+        randeeraliyanage
     </a>
     <a href="https://www.youtube.com/@randeera" target="_blank" style="text-decoration: none; color: #032c5c;">
         <img src="assets/img/youtube.png" alt="YouTube" style="width: 30px; vertical-align: middle; margin-right: 10px;">
