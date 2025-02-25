@@ -12,9 +12,9 @@ Feel free to reach out to me through any of the following platforms:
         <img src="assets/img/email.png" alt="Email" style="width: 30px; vertical-align: middle; margin-right: 10px;">
         randeera.liyanage@cinec.edu
     </a>
-    <a href="tel:+94777142029" style="text-decoration: none; color: #333;">
-        <img src="assets/img/phone.png" alt="Phone" style="width: 30px; vertical-align: middle; margin-right: 10px;">
-        +94 777142029
+    <a href="https://wa.me/94777142029" target="_blank" style="text-decoration: none; color: #25D366;">
+        <img src="assets/img/whatsapp.png" alt="WhatsApp" style="width: 30px; vertical-align: middle; margin-right: 10px;">
+        WhatsApp - +94 777142029
     </a>
     <a href="http://www.linkedin.com/in/randeeraliyanage" target="_blank" style="text-decoration: none; color: #0077b5;">
         <img src="assets/img/linkedin.png" alt="LinkedIn" style="width: 30px; vertical-align: middle; margin-right: 10px;">
