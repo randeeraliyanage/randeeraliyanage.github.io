@@ -24,6 +24,10 @@ Feel free to reach out to me through any of the following platforms:
         <img src="assets/img/github.png" alt="GitHub" style="width: 30px; vertical-align: middle; margin-right: 10px;">
         GitHub - randeeraliyanage.github.io
     </a>
+    <a href="https://www.youtube.com/@randeera" target="_blank" style="text-decoration: none; color: #333;">
+        <img src="assets/img/youtube.png" alt="YouTube" style="width: 30px; vertical-align: middle; margin-right: 10px;">
+        Youtube - @randeera
+    </a>
     <a href="https://twitter.com/your-twitter-handle" target="_blank" style="text-decoration: none; color: #1DA1F2;">
         <img src="assets/img/twitter.png" alt="Twitter" style="width: 30px; vertical-align: middle; margin-right: 10px;">
         Twitter - @randeeral
