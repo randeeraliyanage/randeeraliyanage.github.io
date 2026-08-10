@@ -127,7 +127,7 @@ h1 em, .contact-inner h2 em { color: var(--accent); font-family: var(--serif); f
 .experience-grid { display: grid; grid-template-columns: .8fr 1.2fr; gap: 10%; }
 .experience-grid h2 { margin: 18px 0 28px; }
 .experience-intro { max-width: 430px; color: var(--ink-soft); font-size: 17px; }
-.print-link { margin-top: 25px; }
+.print-link { display: inline-block; margin-top: 25px; }
 .timeline { border-top: 1px solid var(--ink); }
 .timeline article { padding: 27px 0 30px; border-bottom: 1px solid #c5d0ca; }
 .timeline article > div { display: flex; justify-content: space-between; margin-bottom: 10px; color: var(--accent); font-size: 10px; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
