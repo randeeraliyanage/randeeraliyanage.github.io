@@ -118,6 +118,7 @@ h1 em, .contact-inner h2 em { color: var(--accent); font-family: var(--serif); f
 .pub-year { align-self: start; color: var(--accent); font-family: var(--display); font-size: 14px; font-weight: 600; }
 .publication h3 { max-width: 760px; margin: 8px 0 9px; font-family: var(--display); font-size: clamp(20px, 2.2vw, 28px); line-height: 1.28; letter-spacing: -.025em; }
 .publication p { margin: 0; color: var(--ink-soft); font-size: 13px; }
+.publication .pub-award { display: inline-block; margin: 2px 0 10px; padding: 4px 8px; border: 1px solid #a7cdbd; background: #eef6f1; color: var(--accent); font-size: 10px; font-weight: 600; letter-spacing: .05em; text-transform: uppercase; }
 .publication > a { padding: 9px 0; color: var(--accent); font-size: 12px; font-weight: 600; text-decoration: none; }
 
 .experience-section { background: #e8eee9; }
