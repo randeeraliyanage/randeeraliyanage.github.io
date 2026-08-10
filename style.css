@@ -74,9 +74,9 @@ h1 em, .contact-inner h2 em { color: var(--accent); font-family: var(--serif); f
 .portrait-frame { position: absolute; right: 10%; top: 9%; width: min(70%, 330px); aspect-ratio: 412 / 538; overflow: hidden; border-radius: 48% 48% 8px 8px; background: var(--mint); box-shadow: 0 30px 70px rgba(24, 67, 59, .13); }
 .portrait-frame::after { content: ""; position: absolute; inset: 0; box-shadow: inset 0 0 0 1px rgba(255,255,255,.55); border-radius: inherit; }
 .portrait-frame img { width: 100%; height: 100%; display: block; object-fit: cover; filter: saturate(.8) contrast(.96); }
-.visual-note { position: absolute; left: 4%; bottom: 10%; min-width: 205px; padding: 16px 18px; background: rgba(252,253,251,.9); border: 1px solid var(--line); backdrop-filter: blur(12px); }
+.visual-note { position: absolute; left: 4%; bottom: 10%; width: min(285px, 78%); padding: 16px 18px; background: rgba(252,253,251,.9); border: 1px solid var(--line); backdrop-filter: blur(12px); }
 .visual-note span { display: block; color: var(--accent); font-size: 9px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; }
-.visual-note strong { font-family: var(--display); font-size: 14px; }
+.visual-note strong { display: block; margin-top: 3px; font-family: var(--display); font-size: 14px; line-height: 1.35; }
 
 .section { padding-block: 120px; }
 .statement { border-top: 1px solid var(--line); }
